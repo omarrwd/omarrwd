@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarrwd" alt="omarrwd" /></a> </p>
 
-- 🔭 I’m currently working on **House Prediction Model**
+- 🔭 I’m currently working on **Online Code Editor**
 
 - 🌱 I’m currently learning **AI/PyTorch-AWS**
 
