@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **or9615113@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1qpbnfxK4OpDAJYSzt7bP7Wb2AQr-OK_j/view?usp=sharing](https://drive.google.com/file/d/1qpbnfxK4OpDAJYSzt7bP7Wb2AQr-OK_j/view?usp=sharing(https://drive.google.com/file/d/1VVM1ZfxVrgz9p6pwuu4HTHRLPQBiqOzj/view?usp=drive_link))](https://drive.google.com/file/d/1aFPwIZ_kqe9QkRR_OBg9zhlYZdzZWKcd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qpbnfxK4OpDAJYSzt7bP7Wb2AQr-OK_j/view?usp=sharing](https://drive.google.com/file/d/1qpbnfxK4OpDAJYSzt7bP7Wb2AQr-OK_j/view?usp=sharing(https://drive.google.com/file/d/1VVM1ZfxVrgz9p6pwuu4HTHRLPQBiqOzj/view?usp=drive_link))](https://drive.google.com/file/d/1aFPwIZ_kqe9QkRR_OBg9zhlYZdzZWKcd/view?usp=sharing)](https://drive.google.com/file/d/1VVM1ZfxVrgz9p6pwuu4HTHRLPQBiqOzj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
