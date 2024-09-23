@@ -25,13 +25,13 @@ Graduated with Excellence, Minor in Information Systems, 2023
 - Gained hands-on experience in applying IT to preserve and promote Egypt's cultural heritage.
 
 ### 🚀 Projects
-- **[Online Code Editor](#)**  
+- **[Online Code Editor](https://github.com/omarrwd/Code-Editor)**  
   Developed a versatile Online Code Editor using Node.js and React, with multi-language support and secure code execution through Docker isolation.
   
-- **[Database System](#)**  
+- **[Database System](https://github.com/omarrwd/Graduation-Project-2)**  
   A database system utilizing ElasticSearch and Redis to store and retrieve news articles, optimized for high-performance searches and storage efficiency.
   
-- **[Archaeological News Website](#)**  
+- **[Archaeological News Website](https://github.com/omarrwd/main-graduation-project)**  
   Created a website using Laravel to deliver the latest archaeological news with enhanced searchability through ElasticSearch and Redis.
 
 ### 📊 Coursework & Certifications
