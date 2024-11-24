@@ -1,45 +1,32 @@
-# Hi there, I'm Omar Rashed Hassan! 👋
+<h1 align="center">Hi 👋, I'm Omar Rashed Hassan</h1>
+<h3 align="center">Back-End Developer | Laravel, Node.js, PHP, .NET | AI Enthusiast | Building Scalable APIs and Secure Systems</h3>
 
-🎯 I'm a **Back-End Developer** with a passion for **AI technologies**, specializing in creating scalable and secure backend systems. My core strengths lie in **C#**, **PHP**, **Node.js**, and various database technologies. I am continuously exploring ways to integrate **AI** into backend development, enhancing performance and security.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarrwd&label=Profile%20views&color=0e75b6&style=flat" alt="omarrwd" /> </p>
 
-### 🛠️ Technologies & Tools
-- **Languages:** Python, C#, PHP, Go
-- **Frameworks:** Laravel, Nest.js, Node.js
-- **Databases:** MongoDB, MySQL, ElasticSearch, Redis
-- **Tools:** Docker, Monaco Editor, React, Unity
-- **Front-End:** HTML, CSS, JavaScript
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarrwd" alt="omarrwd" /></a> </p>
 
-### 📚 Education
-**Bachelor of Science in Archaeological Information Systems**  
-*Cairo University, Egypt*  
-Graduated with Excellence, Minor in Information Systems, 2023
+- 🔭 I’m currently working at **PS Solutions**
 
-### 💼 Experience
-**Back-End Laravel Developer @ PS Solutions**  
-*February 2024 - Present | Egypt*  
-- Developed complete APIs to seamlessly integrate back-end systems with front-end applications.
-- Designed secure, scalable RESTful APIs using Laravel for client applications.
+- 🌱 I’m currently learning **ASP.NET**
 
-**Trainee @ Ministry of Tourism and Antiquities**  
-*September 2022 - October 2022 | Egypt*  
-- Gained hands-on experience in applying IT to preserve and promote Egypt's cultural heritage.
+- 👯 I’m looking to collaborate on **any open-source projects**
 
-### 🚀 Projects
-- **[Online Code Editor](https://github.com/omarrwd/Code-Editor)**  
-  Developed a versatile Online Code Editor using Node.js and React, with multi-language support and secure code execution through Docker isolation.
-  
-- **[Database System](https://github.com/omarrwd/Graduation-Project-2)**  
-  A database system utilizing ElasticSearch and Redis to store and retrieve news articles, optimized for high-performance searches and storage efficiency.
-  
-- **[Archaeological News Website](https://github.com/omarrwd/main-graduation-project)**  
-  Created a website using Laravel to deliver the latest archaeological news with enhanced searchability through ElasticSearch and Redis.
+- 💬 Ask me about **any thing you want**
 
-### 📊 Coursework & Certifications
-- **ALX Data Science Track** (2024)
-- **AI Diploma** @ Route Academy (2024)
-- **Virtual Heritage Training** @ ITI (2023)
+- 📫 How to reach me **+201112559654**
 
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/omarrashedhassan)
-- [GitHub](https://github.com/omarrwd?tab=repositories)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1X7TJstt58mfW8_EuaNyWNVnZ0lSKsq2D/view?usp=sharing](https://drive.google.com/file/d/1X7TJstt58mfW8_EuaNyWNVnZ0lSKsq2D/view?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/omarrashedhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omarrashedhassan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarrwd&show_icons=true&locale=en&layout=compact" alt="omarrwd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarrwd&show_icons=true&locale=en" alt="omarrwd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarrwd&" alt="omarrwd" /></p>
