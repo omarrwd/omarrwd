@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Rashed Hassan</h1>
-<h3 align="center">Back-End Developer | Laravel, Node.js, PHP, .NET | AI Enthusiast | Building Scalable APIs and Secure Systems</h3>
+<h3 align="center">Back-End Developer | Laravel, Nest.js, .NET, Python | AI Enthusiast | Building Scalable APIs and Secure Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarrwd&label=Profile%20views&color=0e75b6&style=flat" alt="omarrwd" /> </p>
 
